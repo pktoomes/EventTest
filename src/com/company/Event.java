@@ -4,9 +4,9 @@ public class Event {
     String name;
     String action;
 
-    public Event(String name, String action) {
-        this.name = name;
-        this.action = action;
+
+    public Event() {
+
     }
 
     public String getName() {
